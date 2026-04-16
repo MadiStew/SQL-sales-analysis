@@ -5,14 +5,14 @@ This project analyzes a sales database using SQL show highlights about revenue, 
 
 The dataset used is the classicmodels database.
 
----
+
 Tools Used
 
 * SQL
 * Relational database concepts
 * Joins, aggregations, and window functions
 
----
+
 Questions Answered
 
 1. What is the total revenue?
@@ -21,7 +21,7 @@ Questions Answered
 4. Which customers spend the most?
 5. Which product performs best in each category?
 
----
+
 Insights
 
 * Identified top-performing products by revenue and quantity
@@ -29,7 +29,7 @@ Insights
 * Ranked customers by total spending
 * Determined best-selling products within each category
 
----
+
 Skills demonstrated
 
 * Multi-table joins
@@ -37,7 +37,7 @@ Skills demonstrated
 * Window functions (RANK)
 * Data analysis and interpretation
 
----
+
 File
 
 [MySQL_Project.sql](https://github.com/user-attachments/files/26786706/MySQL_Project.sql)
